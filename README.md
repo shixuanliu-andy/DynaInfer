@@ -1,8 +1,8 @@
-# Environment Inference for Learning Generalizable Dynamical System (Neurips 2025) 
+# Environment Inference for Learning Generalizable Dynamical System (NeurIPS 2025) 
 
 This repository contains a PyTorch implementation of DynaInfer, as described in the paper:
 
-Shixuan Liu, Yue He, Haotian Wang, Wenjing Yang, Yunfei Wang, Peng Cui, Zhong Liu. [Environment Inference for Learning Generalizable Dynamical System]([https://ieeexplore.ieee.org/abstract/document/10613499/](https://openreview.net/forum?id=2M5dTDdGxl)). Neurips 2025. 
+Shixuan Liu, Yue He, Haotian Wang, Wenjing Yang, Yunfei Wang, Peng Cui, Zhong Liu. [Environment Inference for Learning Generalizable Dynamical System]([https://ieeexplore.ieee.org/abstract/document/10613499/](https://openreview.net/forum?id=2M5dTDdGxl)). NeurIPS 2025. 
 
 
 ## Overview
